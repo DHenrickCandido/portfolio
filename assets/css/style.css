@@ -55,6 +55,7 @@ body::before {
 #myVideo {
   position: fixed;
   left:0;
+  top: 0;
   bottom: -20px;
   min-width: 100%;
   min-height: 100%;
